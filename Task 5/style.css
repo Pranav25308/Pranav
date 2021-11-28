@@ -1,0 +1,58 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.nav-link
+{
+    margin-left: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    color: white;
+}
+
+.navbar-nav
+{
+    margin-left: 300px;
+}
+.img
+{
+    box-shadow: 0px 3px 10px 10px #888888;
+}
+.img:hover
+{
+    border: 2px solid black;
+    transition: ease 0.4s;
+}
+.form-control
+{
+    width: 400px;
+    margin-left: 570px;
+}
+.btn-success
+{
+    margin-left: 700px;
+    width: 150px;
+    height: 40px;
+    border-radius: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+.km
+{
+    font-size: 19px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-self: stretch;
+    margin-left: 15px;
+    display: none;
+}
+.cl
+{
+    font-size: 19px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 15px;
+    display: none;
+}
+#vc , #mh-ct , #kn-ct , #pn-cn0 , #pn-cn1 , #mu-cn , #bn-cn0 , #bn-cn1 , #mn-cn
+{
+    display: none;
+}
